@@ -43,6 +43,12 @@
           "enrollTime": 1760601600,
           "enrollType": "DLC",
           "enrollNoticeEndTime": -1
+        },
+        "rogue_5_enroll_2": {
+          "enrollId": "rogue_5_enroll_2",
+          "enrollTime": 1769241600,
+          "enrollType": "DLC",
+          "enrollNoticeEndTime": -1
         }
       },
       "milestones": [
@@ -1802,8 +1808,8 @@
           "displayUnlockMonth": 2,
           "acquireTitle": "可获取主题头像",
           "purchaseTitle": "主题头像",
-          "displayName": "神秘头像",
-          "displayDiscription": "聚散从无定日，开落自然有时。",
+          "displayName": "“花语”",
+          "displayDiscription": "聚散从无定日，开落自然有时。秉烛问花是何故，花说——“我也不知！”",
           "bpLevelId": "bp_level_155",
           "itemBundle": null,
           "detailAnnounceTime": "2026/2/1 4:00:00",
@@ -4756,7 +4762,7 @@
               "relicId": "rogue_5_relic_legacy_19",
               "relicSortId": 1,
               "relicGroupId": 8,
-              "orderId": "219",
+              "orderId": "223",
               "isSpRelic": true,
               "enrollId": null
             },
@@ -4764,7 +4770,7 @@
               "relicId": "rogue_5_relic_richg_4",
               "relicSortId": 2,
               "relicGroupId": 8,
-              "orderId": "220",
+              "orderId": "224",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4772,7 +4778,7 @@
               "relicId": "rogue_5_relic_richg_5",
               "relicSortId": 3,
               "relicGroupId": 8,
-              "orderId": "221",
+              "orderId": "225",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4780,7 +4786,7 @@
               "relicId": "rogue_5_relic_richg_6",
               "relicSortId": 4,
               "relicGroupId": 8,
-              "orderId": "222",
+              "orderId": "226",
               "isSpRelic": true,
               "enrollId": null
             },
@@ -4788,7 +4794,7 @@
               "relicId": "rogue_5_relic_richg_7",
               "relicSortId": 5,
               "relicGroupId": 8,
-              "orderId": "223",
+              "orderId": "227",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4796,7 +4802,7 @@
               "relicId": "rogue_5_relic_legacy_86",
               "relicSortId": 6,
               "relicGroupId": 8,
-              "orderId": "224",
+              "orderId": "228",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4804,7 +4810,7 @@
               "relicId": "rogue_5_relic_legacy_87",
               "relicSortId": 7,
               "relicGroupId": 8,
-              "orderId": "225",
+              "orderId": "229",
               "isSpRelic": true,
               "enrollId": null
             },
@@ -4812,7 +4818,7 @@
               "relicId": "rogue_5_relic_cardg_1",
               "relicSortId": 8,
               "relicGroupId": 8,
-              "orderId": "226",
+              "orderId": "230",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4820,7 +4826,7 @@
               "relicId": "rogue_5_relic_cardg_2",
               "relicSortId": 9,
               "relicGroupId": 8,
-              "orderId": "227",
+              "orderId": "231",
               "isSpRelic": true,
               "enrollId": null
             },
@@ -4828,7 +4834,7 @@
               "relicId": "rogue_5_relic_cardg_3",
               "relicSortId": 10,
               "relicGroupId": 8,
-              "orderId": "228",
+              "orderId": "232",
               "isSpRelic": true,
               "enrollId": null
             },
@@ -4836,7 +4842,7 @@
               "relicId": "rogue_5_relic_cardg_4",
               "relicSortId": 11,
               "relicGroupId": 8,
-              "orderId": "229",
+              "orderId": "233",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4844,7 +4850,7 @@
               "relicId": "rogue_5_relic_cardg_5",
               "relicSortId": 12,
               "relicGroupId": 8,
-              "orderId": "230",
+              "orderId": "234",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4852,7 +4858,7 @@
               "relicId": "rogue_5_relic_cardg_6",
               "relicSortId": 13,
               "relicGroupId": 8,
-              "orderId": "231",
+              "orderId": "235",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4860,7 +4866,7 @@
               "relicId": "rogue_5_relic_res_1",
               "relicSortId": 14,
               "relicGroupId": 8,
-              "orderId": "232",
+              "orderId": "236",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4868,7 +4874,7 @@
               "relicId": "rogue_5_relic_res_2",
               "relicSortId": 15,
               "relicGroupId": 8,
-              "orderId": "233",
+              "orderId": "237",
               "isSpRelic": true,
               "enrollId": null
             },
@@ -4876,7 +4882,7 @@
               "relicId": "rogue_5_relic_raidian_1",
               "relicSortId": 16,
               "relicGroupId": 8,
-              "orderId": "234",
+              "orderId": "238",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4884,7 +4890,7 @@
               "relicId": "rogue_5_relic_speg_1",
               "relicSortId": 17,
               "relicGroupId": 8,
-              "orderId": "235",
+              "orderId": "239",
               "isSpRelic": false,
               "enrollId": null
             },
@@ -4892,7 +4898,7 @@
               "relicId": "rogue_5_relic_explore_7",
               "relicSortId": 1,
               "relicGroupId": 9,
-              "orderId": "236",
+              "orderId": "240",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4900,7 +4906,7 @@
               "relicId": "rogue_5_relic_explore_8",
               "relicSortId": 2,
               "relicGroupId": 9,
-              "orderId": "237",
+              "orderId": "241",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4908,7 +4914,7 @@
               "relicId": "rogue_5_relic_explore_9",
               "relicSortId": 3,
               "relicGroupId": 9,
-              "orderId": "238",
+              "orderId": "242",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4916,7 +4922,7 @@
               "relicId": "rogue_5_relic_explore_10",
               "relicSortId": 4,
               "relicGroupId": 9,
-              "orderId": "239",
+              "orderId": "243",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4924,7 +4930,7 @@
               "relicId": "rogue_5_relic_explore_11",
               "relicSortId": 5,
               "relicGroupId": 9,
-              "orderId": "240",
+              "orderId": "244",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4932,7 +4938,7 @@
               "relicId": "rogue_5_relic_explore_12",
               "relicSortId": 6,
               "relicGroupId": 9,
-              "orderId": "241",
+              "orderId": "245",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4940,7 +4946,7 @@
               "relicId": "rogue_5_relic_explore_13",
               "relicSortId": 7,
               "relicGroupId": 9,
-              "orderId": "242",
+              "orderId": "246",
               "isSpRelic": true,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4948,7 +4954,7 @@
               "relicId": "rogue_5_relic_legacy_151",
               "relicSortId": 8,
               "relicGroupId": 9,
-              "orderId": "243",
+              "orderId": "247",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4956,7 +4962,7 @@
               "relicId": "rogue_5_relic_return_1",
               "relicSortId": 9,
               "relicGroupId": 9,
-              "orderId": "244",
+              "orderId": "248",
               "isSpRelic": true,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4964,7 +4970,7 @@
               "relicId": "rogue_5_relic_return_3",
               "relicSortId": 10,
               "relicGroupId": 9,
-              "orderId": "245",
+              "orderId": "249",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4972,7 +4978,7 @@
               "relicId": "rogue_5_relic_return_4",
               "relicSortId": 11,
               "relicGroupId": 9,
-              "orderId": "246",
+              "orderId": "250",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4980,7 +4986,7 @@
               "relicId": "rogue_5_relic_return_5",
               "relicSortId": 12,
               "relicGroupId": 9,
-              "orderId": "247",
+              "orderId": "251",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4988,7 +4994,7 @@
               "relicId": "rogue_5_relic_return_6",
               "relicSortId": 13,
               "relicGroupId": 9,
-              "orderId": "248",
+              "orderId": "252",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -4996,7 +5002,7 @@
               "relicId": "rogue_5_relic_return_7",
               "relicSortId": 14,
               "relicGroupId": 9,
-              "orderId": "249",
+              "orderId": "253",
               "isSpRelic": true,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5004,7 +5010,7 @@
               "relicId": "rogue_5_relic_return_8",
               "relicSortId": 15,
               "relicGroupId": 9,
-              "orderId": "250",
+              "orderId": "254",
               "isSpRelic": true,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5012,7 +5018,7 @@
               "relicId": "rogue_5_relic_return_9",
               "relicSortId": 16,
               "relicGroupId": 9,
-              "orderId": "251",
+              "orderId": "255",
               "isSpRelic": true,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5020,7 +5026,7 @@
               "relicId": "rogue_5_relic_return_12",
               "relicSortId": 17,
               "relicGroupId": 9,
-              "orderId": "252",
+              "orderId": "256",
               "isSpRelic": true,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5028,7 +5034,7 @@
               "relicId": "rogue_5_relic_return_13",
               "relicSortId": 18,
               "relicGroupId": 9,
-              "orderId": "253",
+              "orderId": "257",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5036,7 +5042,7 @@
               "relicId": "rogue_5_relic_return_14",
               "relicSortId": 19,
               "relicGroupId": 9,
-              "orderId": "254",
+              "orderId": "258",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5044,7 +5050,7 @@
               "relicId": "rogue_5_relic_return_16",
               "relicSortId": 20,
               "relicGroupId": 9,
-              "orderId": "255",
+              "orderId": "259",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5052,7 +5058,7 @@
               "relicId": "rogue_5_relic_return_17",
               "relicSortId": 21,
               "relicGroupId": 9,
-              "orderId": "256",
+              "orderId": "260",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5060,7 +5066,7 @@
               "relicId": "rogue_5_relic_return_18",
               "relicSortId": 22,
               "relicGroupId": 9,
-              "orderId": "257",
+              "orderId": "261",
               "isSpRelic": true,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5068,7 +5074,7 @@
               "relicId": "rogue_5_relic_return_19",
               "relicSortId": 23,
               "relicGroupId": 9,
-              "orderId": "258",
+              "orderId": "262",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5076,7 +5082,7 @@
               "relicId": "rogue_5_relic_return_20",
               "relicSortId": 24,
               "relicGroupId": 9,
-              "orderId": "259",
+              "orderId": "263",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5084,7 +5090,7 @@
               "relicId": "rogue_5_relic_return_21",
               "relicSortId": 25,
               "relicGroupId": 9,
-              "orderId": "260",
+              "orderId": "264",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             },
@@ -5092,7 +5098,7 @@
               "relicId": "rogue_5_relic_return_22",
               "relicSortId": 26,
               "relicGroupId": 9,
-              "orderId": "261",
+              "orderId": "265",
               "isSpRelic": false,
               "enrollId": "rogue_5_enroll_1"
             }
@@ -5880,7 +5886,12 @@
                 "rogue_5_copper_B_01_c",
                 "rogue_5_copper_B_01_d",
                 "rogue_5_copper_B_01_e",
-                "rogue_5_copper_B_01_f"
+                "rogue_5_copper_B_01_f",
+                "rogue_5_copper_B_01_g",
+                "rogue_5_copper_B_01_h",
+                "rogue_5_copper_B_01_i",
+                "rogue_5_copper_B_01_j",
+                "rogue_5_copper_B_01_k"
               ]
             },
             "rogue_5_copper_B_02": {
@@ -5896,7 +5907,12 @@
                 "rogue_5_copper_B_02_c",
                 "rogue_5_copper_B_02_d",
                 "rogue_5_copper_B_02_e",
-                "rogue_5_copper_B_02_f"
+                "rogue_5_copper_B_02_f",
+                "rogue_5_copper_B_02_g",
+                "rogue_5_copper_B_02_h",
+                "rogue_5_copper_B_02_i",
+                "rogue_5_copper_B_02_j",
+                "rogue_5_copper_B_02_k"
               ]
             },
             "rogue_5_copper_B_03": {
@@ -5912,7 +5928,12 @@
                 "rogue_5_copper_B_03_c",
                 "rogue_5_copper_B_03_d",
                 "rogue_5_copper_B_03_e",
-                "rogue_5_copper_B_03_f"
+                "rogue_5_copper_B_03_f",
+                "rogue_5_copper_B_03_g",
+                "rogue_5_copper_B_03_h",
+                "rogue_5_copper_B_03_i",
+                "rogue_5_copper_B_03_j",
+                "rogue_5_copper_B_03_k"
               ]
             },
             "rogue_5_copper_B_04": {
@@ -5928,7 +5949,12 @@
                 "rogue_5_copper_B_04_c",
                 "rogue_5_copper_B_04_d",
                 "rogue_5_copper_B_04_e",
-                "rogue_5_copper_B_04_f"
+                "rogue_5_copper_B_04_f",
+                "rogue_5_copper_B_04_g",
+                "rogue_5_copper_B_04_h",
+                "rogue_5_copper_B_04_i",
+                "rogue_5_copper_B_04_j",
+                "rogue_5_copper_B_04_k"
               ]
             },
             "rogue_5_copper_B_05": {
@@ -5944,7 +5970,12 @@
                 "rogue_5_copper_B_05_c",
                 "rogue_5_copper_B_05_d",
                 "rogue_5_copper_B_05_e",
-                "rogue_5_copper_B_05_f"
+                "rogue_5_copper_B_05_f",
+                "rogue_5_copper_B_05_g",
+                "rogue_5_copper_B_05_h",
+                "rogue_5_copper_B_05_i",
+                "rogue_5_copper_B_05_j",
+                "rogue_5_copper_B_05_k"
               ]
             },
             "rogue_5_copper_B_06": {
@@ -5960,7 +5991,12 @@
                 "rogue_5_copper_B_06_c",
                 "rogue_5_copper_B_06_d",
                 "rogue_5_copper_B_06_e",
-                "rogue_5_copper_B_06_f"
+                "rogue_5_copper_B_06_f",
+                "rogue_5_copper_B_06_g",
+                "rogue_5_copper_B_06_h",
+                "rogue_5_copper_B_06_i",
+                "rogue_5_copper_B_06_j",
+                "rogue_5_copper_B_06_k"
               ]
             },
             "rogue_5_copper_B_07": {
@@ -5976,7 +6012,12 @@
                 "rogue_5_copper_B_07_c",
                 "rogue_5_copper_B_07_d",
                 "rogue_5_copper_B_07_e",
-                "rogue_5_copper_B_07_f"
+                "rogue_5_copper_B_07_f",
+                "rogue_5_copper_B_07_g",
+                "rogue_5_copper_B_07_h",
+                "rogue_5_copper_B_07_i",
+                "rogue_5_copper_B_07_j",
+                "rogue_5_copper_B_07_k"
               ]
             },
             "rogue_5_copper_B_08": {
@@ -5992,7 +6033,12 @@
                 "rogue_5_copper_B_08_c",
                 "rogue_5_copper_B_08_d",
                 "rogue_5_copper_B_08_e",
-                "rogue_5_copper_B_08_f"
+                "rogue_5_copper_B_08_f",
+                "rogue_5_copper_B_08_g",
+                "rogue_5_copper_B_08_h",
+                "rogue_5_copper_B_08_i",
+                "rogue_5_copper_B_08_j",
+                "rogue_5_copper_B_08_k"
               ]
             },
             "rogue_5_copper_B_09": {
@@ -6008,7 +6054,12 @@
                 "rogue_5_copper_B_09_c",
                 "rogue_5_copper_B_09_d",
                 "rogue_5_copper_B_09_e",
-                "rogue_5_copper_B_09_f"
+                "rogue_5_copper_B_09_f",
+                "rogue_5_copper_B_09_g",
+                "rogue_5_copper_B_09_h",
+                "rogue_5_copper_B_09_i",
+                "rogue_5_copper_B_09_j",
+                "rogue_5_copper_B_09_k"
               ]
             },
             "rogue_5_copper_B_10": {
@@ -6024,7 +6075,12 @@
                 "rogue_5_copper_B_10_c",
                 "rogue_5_copper_B_10_d",
                 "rogue_5_copper_B_10_e",
-                "rogue_5_copper_B_10_f"
+                "rogue_5_copper_B_10_f",
+                "rogue_5_copper_B_10_g",
+                "rogue_5_copper_B_10_h",
+                "rogue_5_copper_B_10_i",
+                "rogue_5_copper_B_10_j",
+                "rogue_5_copper_B_10_k"
               ]
             },
             "rogue_5_copper_F_01": {
@@ -6040,7 +6096,12 @@
                 "rogue_5_copper_F_01_c",
                 "rogue_5_copper_F_01_d",
                 "rogue_5_copper_F_01_e",
-                "rogue_5_copper_F_01_f"
+                "rogue_5_copper_F_01_f",
+                "rogue_5_copper_F_01_g",
+                "rogue_5_copper_F_01_h",
+                "rogue_5_copper_F_01_i",
+                "rogue_5_copper_F_01_j",
+                "rogue_5_copper_F_01_k"
               ]
             },
             "rogue_5_copper_F_02": {
@@ -6056,7 +6117,12 @@
                 "rogue_5_copper_F_02_c",
                 "rogue_5_copper_F_02_d",
                 "rogue_5_copper_F_02_e",
-                "rogue_5_copper_F_02_f"
+                "rogue_5_copper_F_02_f",
+                "rogue_5_copper_F_02_g",
+                "rogue_5_copper_F_02_h",
+                "rogue_5_copper_F_02_i",
+                "rogue_5_copper_F_02_j",
+                "rogue_5_copper_F_02_k"
               ]
             },
             "rogue_5_copper_F_03": {
@@ -6072,7 +6138,12 @@
                 "rogue_5_copper_F_03_c",
                 "rogue_5_copper_F_03_d",
                 "rogue_5_copper_F_03_e",
-                "rogue_5_copper_F_03_f"
+                "rogue_5_copper_F_03_f",
+                "rogue_5_copper_F_03_g",
+                "rogue_5_copper_F_03_h",
+                "rogue_5_copper_F_03_i",
+                "rogue_5_copper_F_03_j",
+                "rogue_5_copper_F_03_k"
               ]
             },
             "rogue_5_copper_F_04": {
@@ -6088,7 +6159,12 @@
                 "rogue_5_copper_F_04_c",
                 "rogue_5_copper_F_04_d",
                 "rogue_5_copper_F_04_e",
-                "rogue_5_copper_F_04_f"
+                "rogue_5_copper_F_04_f",
+                "rogue_5_copper_F_04_g",
+                "rogue_5_copper_F_04_h",
+                "rogue_5_copper_F_04_i",
+                "rogue_5_copper_F_04_j",
+                "rogue_5_copper_F_04_k"
               ]
             },
             "rogue_5_copper_F_05": {
@@ -6104,7 +6180,12 @@
                 "rogue_5_copper_F_05_c",
                 "rogue_5_copper_F_05_d",
                 "rogue_5_copper_F_05_e",
-                "rogue_5_copper_F_05_f"
+                "rogue_5_copper_F_05_f",
+                "rogue_5_copper_F_05_g",
+                "rogue_5_copper_F_05_h",
+                "rogue_5_copper_F_05_i",
+                "rogue_5_copper_F_05_j",
+                "rogue_5_copper_F_05_k"
               ]
             },
             "rogue_5_copper_F_06": {
@@ -6120,7 +6201,12 @@
                 "rogue_5_copper_F_06_c",
                 "rogue_5_copper_F_06_d",
                 "rogue_5_copper_F_06_e",
-                "rogue_5_copper_F_06_f"
+                "rogue_5_copper_F_06_f",
+                "rogue_5_copper_F_06_g",
+                "rogue_5_copper_F_06_h",
+                "rogue_5_copper_F_06_i",
+                "rogue_5_copper_F_06_j",
+                "rogue_5_copper_F_06_k"
               ]
             },
             "rogue_5_copper_F_07": {
@@ -6136,7 +6222,12 @@
                 "rogue_5_copper_F_07_c",
                 "rogue_5_copper_F_07_d",
                 "rogue_5_copper_F_07_e",
-                "rogue_5_copper_F_07_f"
+                "rogue_5_copper_F_07_f",
+                "rogue_5_copper_F_07_g",
+                "rogue_5_copper_F_07_h",
+                "rogue_5_copper_F_07_i",
+                "rogue_5_copper_F_07_j",
+                "rogue_5_copper_F_07_k"
               ]
             },
             "rogue_5_copper_F_08": {
@@ -6152,7 +6243,12 @@
                 "rogue_5_copper_F_08_c",
                 "rogue_5_copper_F_08_d",
                 "rogue_5_copper_F_08_e",
-                "rogue_5_copper_F_08_f"
+                "rogue_5_copper_F_08_f",
+                "rogue_5_copper_F_08_g",
+                "rogue_5_copper_F_08_h",
+                "rogue_5_copper_F_08_i",
+                "rogue_5_copper_F_08_j",
+                "rogue_5_copper_F_08_k"
               ]
             },
             "rogue_5_copper_F_09": {
@@ -6168,7 +6264,12 @@
                 "rogue_5_copper_F_09_c",
                 "rogue_5_copper_F_09_d",
                 "rogue_5_copper_F_09_e",
-                "rogue_5_copper_F_09_f"
+                "rogue_5_copper_F_09_f",
+                "rogue_5_copper_F_09_g",
+                "rogue_5_copper_F_09_h",
+                "rogue_5_copper_F_09_i",
+                "rogue_5_copper_F_09_j",
+                "rogue_5_copper_F_09_k"
               ]
             },
             "rogue_5_copper_F_10": {
@@ -6184,7 +6285,12 @@
                 "rogue_5_copper_F_10_c",
                 "rogue_5_copper_F_10_d",
                 "rogue_5_copper_F_10_e",
-                "rogue_5_copper_F_10_f"
+                "rogue_5_copper_F_10_f",
+                "rogue_5_copper_F_10_g",
+                "rogue_5_copper_F_10_h",
+                "rogue_5_copper_F_10_i",
+                "rogue_5_copper_F_10_j",
+                "rogue_5_copper_F_10_k"
               ]
             },
             "rogue_5_copper_F_11": {
@@ -6200,7 +6306,12 @@
                 "rogue_5_copper_F_11_c",
                 "rogue_5_copper_F_11_d",
                 "rogue_5_copper_F_11_e",
-                "rogue_5_copper_F_11_f"
+                "rogue_5_copper_F_11_f",
+                "rogue_5_copper_F_11_g",
+                "rogue_5_copper_F_11_h",
+                "rogue_5_copper_F_11_i",
+                "rogue_5_copper_F_11_j",
+                "rogue_5_copper_F_11_k"
               ]
             },
             "rogue_5_copper_F_12": {
@@ -6216,7 +6327,12 @@
                 "rogue_5_copper_F_12_c",
                 "rogue_5_copper_F_12_d",
                 "rogue_5_copper_F_12_e",
-                "rogue_5_copper_F_12_f"
+                "rogue_5_copper_F_12_f",
+                "rogue_5_copper_F_12_g",
+                "rogue_5_copper_F_12_h",
+                "rogue_5_copper_F_12_i",
+                "rogue_5_copper_F_12_j",
+                "rogue_5_copper_F_12_k"
               ]
             },
             "rogue_5_copper_F_13": {
@@ -6232,7 +6348,12 @@
                 "rogue_5_copper_F_13_c",
                 "rogue_5_copper_F_13_d",
                 "rogue_5_copper_F_13_e",
-                "rogue_5_copper_F_13_f"
+                "rogue_5_copper_F_13_f",
+                "rogue_5_copper_F_13_g",
+                "rogue_5_copper_F_13_h",
+                "rogue_5_copper_F_13_i",
+                "rogue_5_copper_F_13_j",
+                "rogue_5_copper_F_13_k"
               ]
             },
             "rogue_5_copper_F_14": {
@@ -6248,7 +6369,12 @@
                 "rogue_5_copper_F_14_c",
                 "rogue_5_copper_F_14_d",
                 "rogue_5_copper_F_14_e",
-                "rogue_5_copper_F_14_f"
+                "rogue_5_copper_F_14_f",
+                "rogue_5_copper_F_14_g",
+                "rogue_5_copper_F_14_h",
+                "rogue_5_copper_F_14_i",
+                "rogue_5_copper_F_14_j",
+                "rogue_5_copper_F_14_k"
               ]
             },
             "rogue_5_copper_F_15": {
@@ -6264,7 +6390,12 @@
                 "rogue_5_copper_F_15_c",
                 "rogue_5_copper_F_15_d",
                 "rogue_5_copper_F_15_e",
-                "rogue_5_copper_F_15_f"
+                "rogue_5_copper_F_15_f",
+                "rogue_5_copper_F_15_g",
+                "rogue_5_copper_F_15_h",
+                "rogue_5_copper_F_15_i",
+                "rogue_5_copper_F_15_j",
+                "rogue_5_copper_F_15_k"
               ]
             },
             "rogue_5_copper_F_16": {
@@ -6280,7 +6411,12 @@
                 "rogue_5_copper_F_16_c",
                 "rogue_5_copper_F_16_d",
                 "rogue_5_copper_F_16_e",
-                "rogue_5_copper_F_16_f"
+                "rogue_5_copper_F_16_f",
+                "rogue_5_copper_F_16_g",
+                "rogue_5_copper_F_16_h",
+                "rogue_5_copper_F_16_i",
+                "rogue_5_copper_F_16_j",
+                "rogue_5_copper_F_16_k"
               ]
             },
             "rogue_5_copper_F_17": {
@@ -6296,7 +6432,12 @@
                 "rogue_5_copper_F_17_c",
                 "rogue_5_copper_F_17_d",
                 "rogue_5_copper_F_17_e",
-                "rogue_5_copper_F_17_f"
+                "rogue_5_copper_F_17_f",
+                "rogue_5_copper_F_17_g",
+                "rogue_5_copper_F_17_h",
+                "rogue_5_copper_F_17_i",
+                "rogue_5_copper_F_17_j",
+                "rogue_5_copper_F_17_k"
               ]
             },
             "rogue_5_copper_F_18": {
@@ -6312,7 +6453,12 @@
                 "rogue_5_copper_F_18_c",
                 "rogue_5_copper_F_18_d",
                 "rogue_5_copper_F_18_e",
-                "rogue_5_copper_F_18_f"
+                "rogue_5_copper_F_18_f",
+                "rogue_5_copper_F_18_g",
+                "rogue_5_copper_F_18_h",
+                "rogue_5_copper_F_18_i",
+                "rogue_5_copper_F_18_j",
+                "rogue_5_copper_F_18_k"
               ]
             },
             "rogue_5_copper_F_19": {
@@ -6328,7 +6474,12 @@
                 "rogue_5_copper_F_19_c",
                 "rogue_5_copper_F_19_d",
                 "rogue_5_copper_F_19_e",
-                "rogue_5_copper_F_19_f"
+                "rogue_5_copper_F_19_f",
+                "rogue_5_copper_F_19_g",
+                "rogue_5_copper_F_19_h",
+                "rogue_5_copper_F_19_i",
+                "rogue_5_copper_F_19_j",
+                "rogue_5_copper_F_19_k"
               ]
             },
             "rogue_5_copper_F_20": {
@@ -6344,7 +6495,12 @@
                 "rogue_5_copper_F_20_c",
                 "rogue_5_copper_F_20_d",
                 "rogue_5_copper_F_20_e",
-                "rogue_5_copper_F_20_f"
+                "rogue_5_copper_F_20_f",
+                "rogue_5_copper_F_20_g",
+                "rogue_5_copper_F_20_h",
+                "rogue_5_copper_F_20_i",
+                "rogue_5_copper_F_20_j",
+                "rogue_5_copper_F_20_k"
               ]
             },
             "rogue_5_copper_F_21": {
@@ -6360,7 +6516,12 @@
                 "rogue_5_copper_F_21_c",
                 "rogue_5_copper_F_21_d",
                 "rogue_5_copper_F_21_e",
-                "rogue_5_copper_F_21_f"
+                "rogue_5_copper_F_21_f",
+                "rogue_5_copper_F_21_g",
+                "rogue_5_copper_F_21_h",
+                "rogue_5_copper_F_21_i",
+                "rogue_5_copper_F_21_j",
+                "rogue_5_copper_F_21_k"
               ]
             },
             "rogue_5_copper_F_22": {
@@ -6376,7 +6537,12 @@
                 "rogue_5_copper_F_22_c",
                 "rogue_5_copper_F_22_d",
                 "rogue_5_copper_F_22_e",
-                "rogue_5_copper_F_22_f"
+                "rogue_5_copper_F_22_f",
+                "rogue_5_copper_F_22_g",
+                "rogue_5_copper_F_22_h",
+                "rogue_5_copper_F_22_i",
+                "rogue_5_copper_F_22_j",
+                "rogue_5_copper_F_22_k"
               ]
             },
             "rogue_5_copper_F_23": {
@@ -6392,7 +6558,12 @@
                 "rogue_5_copper_F_23_c",
                 "rogue_5_copper_F_23_d",
                 "rogue_5_copper_F_23_e",
-                "rogue_5_copper_F_23_f"
+                "rogue_5_copper_F_23_f",
+                "rogue_5_copper_F_23_g",
+                "rogue_5_copper_F_23_h",
+                "rogue_5_copper_F_23_i",
+                "rogue_5_copper_F_23_j",
+                "rogue_5_copper_F_23_k"
               ]
             },
             "rogue_5_copper_F_24": {
@@ -6408,7 +6579,12 @@
                 "rogue_5_copper_F_24_c",
                 "rogue_5_copper_F_24_d",
                 "rogue_5_copper_F_24_e",
-                "rogue_5_copper_F_24_f"
+                "rogue_5_copper_F_24_f",
+                "rogue_5_copper_F_24_g",
+                "rogue_5_copper_F_24_h",
+                "rogue_5_copper_F_24_i",
+                "rogue_5_copper_F_24_j",
+                "rogue_5_copper_F_24_k"
               ]
             },
             "rogue_5_copper_F_25": {
@@ -6424,7 +6600,12 @@
                 "rogue_5_copper_F_25_c",
                 "rogue_5_copper_F_25_d",
                 "rogue_5_copper_F_25_e",
-                "rogue_5_copper_F_25_f"
+                "rogue_5_copper_F_25_f",
+                "rogue_5_copper_F_25_g",
+                "rogue_5_copper_F_25_h",
+                "rogue_5_copper_F_25_i",
+                "rogue_5_copper_F_25_j",
+                "rogue_5_copper_F_25_k"
               ]
             },
             "rogue_5_copper_F_26": {
@@ -6440,7 +6621,12 @@
                 "rogue_5_copper_F_26_c",
                 "rogue_5_copper_F_26_d",
                 "rogue_5_copper_F_26_e",
-                "rogue_5_copper_F_26_f"
+                "rogue_5_copper_F_26_f",
+                "rogue_5_copper_F_26_g",
+                "rogue_5_copper_F_26_h",
+                "rogue_5_copper_F_26_i",
+                "rogue_5_copper_F_26_j",
+                "rogue_5_copper_F_26_k"
               ]
             },
             "rogue_5_copper_F_27": {
@@ -6456,7 +6642,12 @@
                 "rogue_5_copper_F_27_c",
                 "rogue_5_copper_F_27_d",
                 "rogue_5_copper_F_27_e",
-                "rogue_5_copper_F_27_f"
+                "rogue_5_copper_F_27_f",
+                "rogue_5_copper_F_27_g",
+                "rogue_5_copper_F_27_h",
+                "rogue_5_copper_F_27_i",
+                "rogue_5_copper_F_27_j",
+                "rogue_5_copper_F_27_k"
               ]
             },
             "rogue_5_copper_F_28": {
@@ -6472,7 +6663,12 @@
                 "rogue_5_copper_F_28_c",
                 "rogue_5_copper_F_28_d",
                 "rogue_5_copper_F_28_e",
-                "rogue_5_copper_F_28_f"
+                "rogue_5_copper_F_28_f",
+                "rogue_5_copper_F_28_g",
+                "rogue_5_copper_F_28_h",
+                "rogue_5_copper_F_28_i",
+                "rogue_5_copper_F_28_j",
+                "rogue_5_copper_F_28_k"
               ]
             },
             "rogue_5_copper_F_29": {
@@ -6488,7 +6684,12 @@
                 "rogue_5_copper_F_29_c",
                 "rogue_5_copper_F_29_d",
                 "rogue_5_copper_F_29_e",
-                "rogue_5_copper_F_29_f"
+                "rogue_5_copper_F_29_f",
+                "rogue_5_copper_F_29_g",
+                "rogue_5_copper_F_29_h",
+                "rogue_5_copper_F_29_i",
+                "rogue_5_copper_F_29_j",
+                "rogue_5_copper_F_29_k"
               ]
             },
             "rogue_5_copper_F_30": {
@@ -6504,7 +6705,12 @@
                 "rogue_5_copper_F_30_c",
                 "rogue_5_copper_F_30_d",
                 "rogue_5_copper_F_30_e",
-                "rogue_5_copper_F_30_f"
+                "rogue_5_copper_F_30_f",
+                "rogue_5_copper_F_30_g",
+                "rogue_5_copper_F_30_h",
+                "rogue_5_copper_F_30_i",
+                "rogue_5_copper_F_30_j",
+                "rogue_5_copper_F_30_k"
               ]
             },
             "rogue_5_copper_F_31": {
@@ -6520,7 +6726,12 @@
                 "rogue_5_copper_F_31_c",
                 "rogue_5_copper_F_31_d",
                 "rogue_5_copper_F_31_e",
-                "rogue_5_copper_F_31_f"
+                "rogue_5_copper_F_31_f",
+                "rogue_5_copper_F_31_g",
+                "rogue_5_copper_F_31_h",
+                "rogue_5_copper_F_31_i",
+                "rogue_5_copper_F_31_j",
+                "rogue_5_copper_F_31_k"
               ]
             },
             "rogue_5_copper_F_32": {
@@ -6536,7 +6747,12 @@
                 "rogue_5_copper_F_32_c",
                 "rogue_5_copper_F_32_d",
                 "rogue_5_copper_F_32_e",
-                "rogue_5_copper_F_32_f"
+                "rogue_5_copper_F_32_f",
+                "rogue_5_copper_F_32_g",
+                "rogue_5_copper_F_32_h",
+                "rogue_5_copper_F_32_i",
+                "rogue_5_copper_F_32_j",
+                "rogue_5_copper_F_32_k"
               ]
             },
             "rogue_5_copper_P_01": {
@@ -6552,7 +6768,12 @@
                 "rogue_5_copper_P_01_c",
                 "rogue_5_copper_P_01_d",
                 "rogue_5_copper_P_01_e",
-                "rogue_5_copper_P_01_f"
+                "rogue_5_copper_P_01_f",
+                "rogue_5_copper_P_01_g",
+                "rogue_5_copper_P_01_h",
+                "rogue_5_copper_P_01_i",
+                "rogue_5_copper_P_01_j",
+                "rogue_5_copper_P_01_k"
               ]
             },
             "rogue_5_copper_P_02": {
@@ -6568,7 +6789,12 @@
                 "rogue_5_copper_P_02_c",
                 "rogue_5_copper_P_02_d",
                 "rogue_5_copper_P_02_e",
-                "rogue_5_copper_P_02_f"
+                "rogue_5_copper_P_02_f",
+                "rogue_5_copper_P_02_g",
+                "rogue_5_copper_P_02_h",
+                "rogue_5_copper_P_02_i",
+                "rogue_5_copper_P_02_j",
+                "rogue_5_copper_P_02_k"
               ]
             },
             "rogue_5_copper_R_01": {
@@ -6576,7 +6802,7 @@
               "displayCopperId": "rogue_5_copper_R_01_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 48,
+              "sortId": 64,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_01_a",
@@ -6584,7 +6810,12 @@
                 "rogue_5_copper_R_01_c",
                 "rogue_5_copper_R_01_d",
                 "rogue_5_copper_R_01_e",
-                "rogue_5_copper_R_01_f"
+                "rogue_5_copper_R_01_f",
+                "rogue_5_copper_R_01_g",
+                "rogue_5_copper_R_01_h",
+                "rogue_5_copper_R_01_i",
+                "rogue_5_copper_R_01_j",
+                "rogue_5_copper_R_01_k"
               ]
             },
             "rogue_5_copper_R_02": {
@@ -6592,7 +6823,7 @@
               "displayCopperId": "rogue_5_copper_R_02_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 49,
+              "sortId": 65,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_02_a",
@@ -6600,7 +6831,12 @@
                 "rogue_5_copper_R_02_c",
                 "rogue_5_copper_R_02_d",
                 "rogue_5_copper_R_02_e",
-                "rogue_5_copper_R_02_f"
+                "rogue_5_copper_R_02_f",
+                "rogue_5_copper_R_02_g",
+                "rogue_5_copper_R_02_h",
+                "rogue_5_copper_R_02_i",
+                "rogue_5_copper_R_02_j",
+                "rogue_5_copper_R_02_k"
               ]
             },
             "rogue_5_copper_R_03": {
@@ -6608,7 +6844,7 @@
               "displayCopperId": "rogue_5_copper_R_03_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 50,
+              "sortId": 66,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_03_a",
@@ -6616,7 +6852,12 @@
                 "rogue_5_copper_R_03_c",
                 "rogue_5_copper_R_03_d",
                 "rogue_5_copper_R_03_e",
-                "rogue_5_copper_R_03_f"
+                "rogue_5_copper_R_03_f",
+                "rogue_5_copper_R_03_g",
+                "rogue_5_copper_R_03_h",
+                "rogue_5_copper_R_03_i",
+                "rogue_5_copper_R_03_j",
+                "rogue_5_copper_R_03_k"
               ]
             },
             "rogue_5_copper_R_04": {
@@ -6624,7 +6865,7 @@
               "displayCopperId": "rogue_5_copper_R_04_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 51,
+              "sortId": 67,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_04_a",
@@ -6632,7 +6873,12 @@
                 "rogue_5_copper_R_04_c",
                 "rogue_5_copper_R_04_d",
                 "rogue_5_copper_R_04_e",
-                "rogue_5_copper_R_04_f"
+                "rogue_5_copper_R_04_f",
+                "rogue_5_copper_R_04_g",
+                "rogue_5_copper_R_04_h",
+                "rogue_5_copper_R_04_i",
+                "rogue_5_copper_R_04_j",
+                "rogue_5_copper_R_04_k"
               ]
             },
             "rogue_5_copper_R_05": {
@@ -6640,7 +6886,7 @@
               "displayCopperId": "rogue_5_copper_R_05_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 52,
+              "sortId": 68,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_05_a",
@@ -6648,7 +6894,12 @@
                 "rogue_5_copper_R_05_c",
                 "rogue_5_copper_R_05_d",
                 "rogue_5_copper_R_05_e",
-                "rogue_5_copper_R_05_f"
+                "rogue_5_copper_R_05_f",
+                "rogue_5_copper_R_05_g",
+                "rogue_5_copper_R_05_h",
+                "rogue_5_copper_R_05_i",
+                "rogue_5_copper_R_05_j",
+                "rogue_5_copper_R_05_k"
               ]
             },
             "rogue_5_copper_R_06": {
@@ -6656,7 +6907,7 @@
               "displayCopperId": "rogue_5_copper_R_06_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 53,
+              "sortId": 69,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_06_a",
@@ -6664,7 +6915,12 @@
                 "rogue_5_copper_R_06_c",
                 "rogue_5_copper_R_06_d",
                 "rogue_5_copper_R_06_e",
-                "rogue_5_copper_R_06_f"
+                "rogue_5_copper_R_06_f",
+                "rogue_5_copper_R_06_g",
+                "rogue_5_copper_R_06_h",
+                "rogue_5_copper_R_06_i",
+                "rogue_5_copper_R_06_j",
+                "rogue_5_copper_R_06_k"
               ]
             },
             "rogue_5_copper_R_07": {
@@ -6672,7 +6928,7 @@
               "displayCopperId": "rogue_5_copper_R_07_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 54,
+              "sortId": 70,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_07_a",
@@ -6680,7 +6936,12 @@
                 "rogue_5_copper_R_07_c",
                 "rogue_5_copper_R_07_d",
                 "rogue_5_copper_R_07_e",
-                "rogue_5_copper_R_07_f"
+                "rogue_5_copper_R_07_f",
+                "rogue_5_copper_R_07_g",
+                "rogue_5_copper_R_07_h",
+                "rogue_5_copper_R_07_i",
+                "rogue_5_copper_R_07_j",
+                "rogue_5_copper_R_07_k"
               ]
             },
             "rogue_5_copper_R_08": {
@@ -6688,7 +6949,7 @@
               "displayCopperId": "rogue_5_copper_R_08_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 55,
+              "sortId": 71,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_08_a",
@@ -6696,7 +6957,12 @@
                 "rogue_5_copper_R_08_c",
                 "rogue_5_copper_R_08_d",
                 "rogue_5_copper_R_08_e",
-                "rogue_5_copper_R_08_f"
+                "rogue_5_copper_R_08_f",
+                "rogue_5_copper_R_08_g",
+                "rogue_5_copper_R_08_h",
+                "rogue_5_copper_R_08_i",
+                "rogue_5_copper_R_08_j",
+                "rogue_5_copper_R_08_k"
               ]
             },
             "rogue_5_copper_R_09": {
@@ -6704,7 +6970,7 @@
               "displayCopperId": "rogue_5_copper_R_09_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 56,
+              "sortId": 72,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_09_a",
@@ -6712,7 +6978,12 @@
                 "rogue_5_copper_R_09_c",
                 "rogue_5_copper_R_09_d",
                 "rogue_5_copper_R_09_e",
-                "rogue_5_copper_R_09_f"
+                "rogue_5_copper_R_09_f",
+                "rogue_5_copper_R_09_g",
+                "rogue_5_copper_R_09_h",
+                "rogue_5_copper_R_09_i",
+                "rogue_5_copper_R_09_j",
+                "rogue_5_copper_R_09_k"
               ]
             },
             "rogue_5_copper_R_10": {
@@ -6720,7 +6991,7 @@
               "displayCopperId": "rogue_5_copper_R_10_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 57,
+              "sortId": 73,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_10_a",
@@ -6728,7 +6999,12 @@
                 "rogue_5_copper_R_10_c",
                 "rogue_5_copper_R_10_d",
                 "rogue_5_copper_R_10_e",
-                "rogue_5_copper_R_10_f"
+                "rogue_5_copper_R_10_f",
+                "rogue_5_copper_R_10_g",
+                "rogue_5_copper_R_10_h",
+                "rogue_5_copper_R_10_i",
+                "rogue_5_copper_R_10_j",
+                "rogue_5_copper_R_10_k"
               ]
             },
             "rogue_5_copper_R_11": {
@@ -6736,7 +7012,7 @@
               "displayCopperId": "rogue_5_copper_R_11_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 58,
+              "sortId": 74,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_R_11_a",
@@ -6744,7 +7020,12 @@
                 "rogue_5_copper_R_11_c",
                 "rogue_5_copper_R_11_d",
                 "rogue_5_copper_R_11_e",
-                "rogue_5_copper_R_11_f"
+                "rogue_5_copper_R_11_f",
+                "rogue_5_copper_R_11_g",
+                "rogue_5_copper_R_11_h",
+                "rogue_5_copper_R_11_i",
+                "rogue_5_copper_R_11_j",
+                "rogue_5_copper_R_11_k"
               ]
             },
             "rogue_5_copper_R_12": {
@@ -6752,7 +7033,7 @@
               "displayCopperId": "rogue_5_copper_R_12_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 59,
+              "sortId": 75,
               "enrollId": "rogue_5_enroll_1",
               "coppersInGroup": [
                 "rogue_5_copper_R_12_a",
@@ -6760,7 +7041,12 @@
                 "rogue_5_copper_R_12_c",
                 "rogue_5_copper_R_12_d",
                 "rogue_5_copper_R_12_e",
-                "rogue_5_copper_R_12_f"
+                "rogue_5_copper_R_12_f",
+                "rogue_5_copper_R_12_g",
+                "rogue_5_copper_R_12_h",
+                "rogue_5_copper_R_12_i",
+                "rogue_5_copper_R_12_j",
+                "rogue_5_copper_R_12_k"
               ]
             },
             "rogue_5_copper_R_13": {
@@ -6768,7 +7054,7 @@
               "displayCopperId": "rogue_5_copper_R_13_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 60,
+              "sortId": 76,
               "enrollId": "rogue_5_enroll_1",
               "coppersInGroup": [
                 "rogue_5_copper_R_13_a",
@@ -6776,7 +7062,12 @@
                 "rogue_5_copper_R_13_c",
                 "rogue_5_copper_R_13_d",
                 "rogue_5_copper_R_13_e",
-                "rogue_5_copper_R_13_f"
+                "rogue_5_copper_R_13_f",
+                "rogue_5_copper_R_13_g",
+                "rogue_5_copper_R_13_h",
+                "rogue_5_copper_R_13_i",
+                "rogue_5_copper_R_13_j",
+                "rogue_5_copper_R_13_k"
               ]
             },
             "rogue_5_copper_R_14": {
@@ -6784,7 +7075,7 @@
               "displayCopperId": "rogue_5_copper_R_14_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 61,
+              "sortId": 77,
               "enrollId": "rogue_5_enroll_1",
               "coppersInGroup": [
                 "rogue_5_copper_R_14_a",
@@ -6792,7 +7083,12 @@
                 "rogue_5_copper_R_14_c",
                 "rogue_5_copper_R_14_d",
                 "rogue_5_copper_R_14_e",
-                "rogue_5_copper_R_14_f"
+                "rogue_5_copper_R_14_f",
+                "rogue_5_copper_R_14_g",
+                "rogue_5_copper_R_14_h",
+                "rogue_5_copper_R_14_i",
+                "rogue_5_copper_R_14_j",
+                "rogue_5_copper_R_14_k"
               ]
             },
             "rogue_5_copper_R_15": {
@@ -6800,7 +7096,7 @@
               "displayCopperId": "rogue_5_copper_R_15_a",
               "archiveType": "COPPER",
               "copperType": "RESOURCE",
-              "sortId": 62,
+              "sortId": 78,
               "enrollId": "rogue_5_enroll_1",
               "coppersInGroup": [
                 "rogue_5_copper_R_15_a",
@@ -6808,7 +7104,12 @@
                 "rogue_5_copper_R_15_c",
                 "rogue_5_copper_R_15_d",
                 "rogue_5_copper_R_15_e",
-                "rogue_5_copper_R_15_f"
+                "rogue_5_copper_R_15_f",
+                "rogue_5_copper_R_15_g",
+                "rogue_5_copper_R_15_h",
+                "rogue_5_copper_R_15_i",
+                "rogue_5_copper_R_15_j",
+                "rogue_5_copper_R_15_k"
               ]
             },
             "rogue_5_copper_U_1": {
@@ -6816,7 +7117,7 @@
               "displayCopperId": "rogue_5_copper_U_1_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 63,
+              "sortId": 93,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_1_a",
@@ -6824,7 +7125,12 @@
                 "rogue_5_copper_U_1_c",
                 "rogue_5_copper_U_1_d",
                 "rogue_5_copper_U_1_e",
-                "rogue_5_copper_U_1_f"
+                "rogue_5_copper_U_1_f",
+                "rogue_5_copper_U_1_g",
+                "rogue_5_copper_U_1_h",
+                "rogue_5_copper_U_1_i",
+                "rogue_5_copper_U_1_j",
+                "rogue_5_copper_U_1_k"
               ]
             },
             "rogue_5_copper_U_2": {
@@ -6832,7 +7138,7 @@
               "displayCopperId": "rogue_5_copper_U_2_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 64,
+              "sortId": 94,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_2_a",
@@ -6840,7 +7146,12 @@
                 "rogue_5_copper_U_2_c",
                 "rogue_5_copper_U_2_d",
                 "rogue_5_copper_U_2_e",
-                "rogue_5_copper_U_2_f"
+                "rogue_5_copper_U_2_f",
+                "rogue_5_copper_U_2_g",
+                "rogue_5_copper_U_2_h",
+                "rogue_5_copper_U_2_i",
+                "rogue_5_copper_U_2_j",
+                "rogue_5_copper_U_2_k"
               ]
             },
             "rogue_5_copper_U_3": {
@@ -6848,7 +7159,7 @@
               "displayCopperId": "rogue_5_copper_U_3_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 65,
+              "sortId": 95,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_3_a",
@@ -6856,7 +7167,12 @@
                 "rogue_5_copper_U_3_c",
                 "rogue_5_copper_U_3_d",
                 "rogue_5_copper_U_3_e",
-                "rogue_5_copper_U_3_f"
+                "rogue_5_copper_U_3_f",
+                "rogue_5_copper_U_3_g",
+                "rogue_5_copper_U_3_h",
+                "rogue_5_copper_U_3_i",
+                "rogue_5_copper_U_3_j",
+                "rogue_5_copper_U_3_k"
               ]
             },
             "rogue_5_copper_U_4": {
@@ -6864,7 +7180,7 @@
               "displayCopperId": "rogue_5_copper_U_4_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 66,
+              "sortId": 96,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_4_a",
@@ -6872,7 +7188,12 @@
                 "rogue_5_copper_U_4_c",
                 "rogue_5_copper_U_4_d",
                 "rogue_5_copper_U_4_e",
-                "rogue_5_copper_U_4_f"
+                "rogue_5_copper_U_4_f",
+                "rogue_5_copper_U_4_g",
+                "rogue_5_copper_U_4_h",
+                "rogue_5_copper_U_4_i",
+                "rogue_5_copper_U_4_j",
+                "rogue_5_copper_U_4_k"
               ]
             },
             "rogue_5_copper_U_5": {
@@ -6880,7 +7201,7 @@
               "displayCopperId": "rogue_5_copper_U_5_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 67,
+              "sortId": 97,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_5_a",
@@ -6888,7 +7209,12 @@
                 "rogue_5_copper_U_5_c",
                 "rogue_5_copper_U_5_d",
                 "rogue_5_copper_U_5_e",
-                "rogue_5_copper_U_5_f"
+                "rogue_5_copper_U_5_f",
+                "rogue_5_copper_U_5_g",
+                "rogue_5_copper_U_5_h",
+                "rogue_5_copper_U_5_i",
+                "rogue_5_copper_U_5_j",
+                "rogue_5_copper_U_5_k"
               ]
             },
             "rogue_5_copper_U_6": {
@@ -6896,7 +7222,7 @@
               "displayCopperId": "rogue_5_copper_U_6_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 68,
+              "sortId": 98,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_6_a",
@@ -6904,7 +7230,12 @@
                 "rogue_5_copper_U_6_c",
                 "rogue_5_copper_U_6_d",
                 "rogue_5_copper_U_6_e",
-                "rogue_5_copper_U_6_f"
+                "rogue_5_copper_U_6_f",
+                "rogue_5_copper_U_6_g",
+                "rogue_5_copper_U_6_h",
+                "rogue_5_copper_U_6_i",
+                "rogue_5_copper_U_6_j",
+                "rogue_5_copper_U_6_k"
               ]
             },
             "rogue_5_copper_U_7": {
@@ -6912,7 +7243,7 @@
               "displayCopperId": "rogue_5_copper_U_7_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 69,
+              "sortId": 99,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_7_a",
@@ -6920,7 +7251,12 @@
                 "rogue_5_copper_U_7_c",
                 "rogue_5_copper_U_7_d",
                 "rogue_5_copper_U_7_e",
-                "rogue_5_copper_U_7_f"
+                "rogue_5_copper_U_7_f",
+                "rogue_5_copper_U_7_g",
+                "rogue_5_copper_U_7_h",
+                "rogue_5_copper_U_7_i",
+                "rogue_5_copper_U_7_j",
+                "rogue_5_copper_U_7_k"
               ]
             },
             "rogue_5_copper_U_8": {
@@ -6928,7 +7264,7 @@
               "displayCopperId": "rogue_5_copper_U_8_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 70,
+              "sortId": 100,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_8_a",
@@ -6936,7 +7272,12 @@
                 "rogue_5_copper_U_8_c",
                 "rogue_5_copper_U_8_d",
                 "rogue_5_copper_U_8_e",
-                "rogue_5_copper_U_8_f"
+                "rogue_5_copper_U_8_f",
+                "rogue_5_copper_U_8_g",
+                "rogue_5_copper_U_8_h",
+                "rogue_5_copper_U_8_i",
+                "rogue_5_copper_U_8_j",
+                "rogue_5_copper_U_8_k"
               ]
             },
             "rogue_5_copper_U_9": {
@@ -6944,7 +7285,7 @@
               "displayCopperId": "rogue_5_copper_U_9_a",
               "archiveType": "COPPER",
               "copperType": "UNSOUND",
-              "sortId": 71,
+              "sortId": 101,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_U_9_a",
@@ -6952,7 +7293,12 @@
                 "rogue_5_copper_U_9_c",
                 "rogue_5_copper_U_9_d",
                 "rogue_5_copper_U_9_e",
-                "rogue_5_copper_U_9_f"
+                "rogue_5_copper_U_9_f",
+                "rogue_5_copper_U_9_g",
+                "rogue_5_copper_U_9_h",
+                "rogue_5_copper_U_9_i",
+                "rogue_5_copper_U_9_j",
+                "rogue_5_copper_U_9_k"
               ]
             },
             "rogue_5_copper_S_1": {
@@ -6960,7 +7306,7 @@
               "displayCopperId": "rogue_5_copper_S_1_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 72,
+              "sortId": 102,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_S_1_a",
@@ -6968,7 +7314,12 @@
                 "rogue_5_copper_S_1_c",
                 "rogue_5_copper_S_1_d",
                 "rogue_5_copper_S_1_e",
-                "rogue_5_copper_S_1_f"
+                "rogue_5_copper_S_1_f",
+                "rogue_5_copper_S_1_g",
+                "rogue_5_copper_S_1_h",
+                "rogue_5_copper_S_1_i",
+                "rogue_5_copper_S_1_j",
+                "rogue_5_copper_S_1_k"
               ]
             },
             "rogue_5_copper_S_2": {
@@ -6976,7 +7327,7 @@
               "displayCopperId": "rogue_5_copper_S_2_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 73,
+              "sortId": 103,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_S_2_a",
@@ -6984,7 +7335,12 @@
                 "rogue_5_copper_S_2_c",
                 "rogue_5_copper_S_2_d",
                 "rogue_5_copper_S_2_e",
-                "rogue_5_copper_S_2_f"
+                "rogue_5_copper_S_2_f",
+                "rogue_5_copper_S_2_g",
+                "rogue_5_copper_S_2_h",
+                "rogue_5_copper_S_2_i",
+                "rogue_5_copper_S_2_j",
+                "rogue_5_copper_S_2_k"
               ]
             },
             "rogue_5_copper_S_3": {
@@ -6992,7 +7348,7 @@
               "displayCopperId": "rogue_5_copper_S_3_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 74,
+              "sortId": 104,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_S_3_a",
@@ -7000,7 +7356,12 @@
                 "rogue_5_copper_S_3_c",
                 "rogue_5_copper_S_3_d",
                 "rogue_5_copper_S_3_e",
-                "rogue_5_copper_S_3_f"
+                "rogue_5_copper_S_3_f",
+                "rogue_5_copper_S_3_g",
+                "rogue_5_copper_S_3_h",
+                "rogue_5_copper_S_3_i",
+                "rogue_5_copper_S_3_j",
+                "rogue_5_copper_S_3_k"
               ]
             },
             "rogue_5_copper_S_4": {
@@ -7008,7 +7369,7 @@
               "displayCopperId": "rogue_5_copper_S_4_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 75,
+              "sortId": 105,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_S_4_a",
@@ -7016,7 +7377,12 @@
                 "rogue_5_copper_S_4_c",
                 "rogue_5_copper_S_4_d",
                 "rogue_5_copper_S_4_e",
-                "rogue_5_copper_S_4_f"
+                "rogue_5_copper_S_4_f",
+                "rogue_5_copper_S_4_g",
+                "rogue_5_copper_S_4_h",
+                "rogue_5_copper_S_4_i",
+                "rogue_5_copper_S_4_j",
+                "rogue_5_copper_S_4_k"
               ]
             },
             "rogue_5_copper_S_5": {
@@ -7024,7 +7390,7 @@
               "displayCopperId": "rogue_5_copper_S_5_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 76,
+              "sortId": 106,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_S_5_a",
@@ -7032,7 +7398,12 @@
                 "rogue_5_copper_S_5_c",
                 "rogue_5_copper_S_5_d",
                 "rogue_5_copper_S_5_e",
-                "rogue_5_copper_S_5_f"
+                "rogue_5_copper_S_5_f",
+                "rogue_5_copper_S_5_g",
+                "rogue_5_copper_S_5_h",
+                "rogue_5_copper_S_5_i",
+                "rogue_5_copper_S_5_j",
+                "rogue_5_copper_S_5_k"
               ]
             },
             "rogue_5_copper_S_6": {
@@ -7040,7 +7411,7 @@
               "displayCopperId": "rogue_5_copper_S_6_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 77,
+              "sortId": 107,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_S_6_a",
@@ -7048,7 +7419,12 @@
                 "rogue_5_copper_S_6_c",
                 "rogue_5_copper_S_6_d",
                 "rogue_5_copper_S_6_e",
-                "rogue_5_copper_S_6_f"
+                "rogue_5_copper_S_6_f",
+                "rogue_5_copper_S_6_g",
+                "rogue_5_copper_S_6_h",
+                "rogue_5_copper_S_6_i",
+                "rogue_5_copper_S_6_j",
+                "rogue_5_copper_S_6_k"
               ]
             },
             "rogue_5_copper_S_7": {
@@ -7056,7 +7432,7 @@
               "displayCopperId": "rogue_5_copper_S_7_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 78,
+              "sortId": 108,
               "enrollId": null,
               "coppersInGroup": [
                 "rogue_5_copper_S_7_a",
@@ -7064,7 +7440,12 @@
                 "rogue_5_copper_S_7_c",
                 "rogue_5_copper_S_7_d",
                 "rogue_5_copper_S_7_e",
-                "rogue_5_copper_S_7_f"
+                "rogue_5_copper_S_7_f",
+                "rogue_5_copper_S_7_g",
+                "rogue_5_copper_S_7_h",
+                "rogue_5_copper_S_7_i",
+                "rogue_5_copper_S_7_j",
+                "rogue_5_copper_S_7_k"
               ]
             },
             "rogue_5_copper_S_8": {
@@ -7072,7 +7453,7 @@
               "displayCopperId": "rogue_5_copper_S_8_a",
               "archiveType": "COPPER",
               "copperType": "TREASURE",
-              "sortId": 79,
+              "sortId": 109,
               "enrollId": "rogue_5_enroll_1",
               "coppersInGroup": [
                 "rogue_5_copper_S_8_a",
@@ -7080,7 +7461,12 @@
                 "rogue_5_copper_S_8_c",
                 "rogue_5_copper_S_8_d",
                 "rogue_5_copper_S_8_e",
-                "rogue_5_copper_S_8_f"
+                "rogue_5_copper_S_8_f",
+                "rogue_5_copper_S_8_g",
+                "rogue_5_copper_S_8_h",
+                "rogue_5_copper_S_8_i",
+                "rogue_5_copper_S_8_j",
+                "rogue_5_copper_S_8_k"
               ]
             },
             "rogue_5_gild_1": {
@@ -7088,7 +7474,7 @@
               "displayCopperId": null,
               "archiveType": "GILD",
               "copperType": "NONE",
-              "sortId": 80,
+              "sortId": 110,
               "enrollId": null,
               "coppersInGroup": []
             },
@@ -7097,7 +7483,7 @@
               "displayCopperId": null,
               "archiveType": "GILD",
               "copperType": "NONE",
-              "sortId": 81,
+              "sortId": 111,
               "enrollId": null,
               "coppersInGroup": []
             },
@@ -7106,7 +7492,7 @@
               "displayCopperId": null,
               "archiveType": "GILD",
               "copperType": "NONE",
-              "sortId": 82,
+              "sortId": 112,
               "enrollId": null,
               "coppersInGroup": []
             },
@@ -7115,7 +7501,7 @@
               "displayCopperId": null,
               "archiveType": "GILD",
               "copperType": "NONE",
-              "sortId": 83,
+              "sortId": 113,
               "enrollId": "rogue_5_enroll_1",
               "coppersInGroup": []
             },
@@ -7124,7 +7510,7 @@
               "displayCopperId": null,
               "archiveType": "GILD",
               "copperType": "NONE",
-              "sortId": 84,
+              "sortId": 114,
               "enrollId": "rogue_5_enroll_1",
               "coppersInGroup": []
             }
@@ -7837,6 +8223,10 @@
             "archiveType": "ENDBOOK",
             "enrollId": null
           },
+          "endbook_rogue_5_1_4": {
+            "archiveType": "ENDBOOK",
+            "enrollId": null
+          },
           "endbook_rogue_5_2_1": {
             "archiveType": "ENDBOOK",
             "enrollId": null
@@ -7846,6 +8236,10 @@
             "enrollId": null
           },
           "endbook_rogue_5_2_3": {
+            "archiveType": "ENDBOOK",
+            "enrollId": null
+          },
+          "endbook_rogue_5_2_4": {
             "archiveType": "ENDBOOK",
             "enrollId": null
           },
@@ -7861,6 +8255,10 @@
             "archiveType": "ENDBOOK",
             "enrollId": null
           },
+          "endbook_rogue_5_3_4": {
+            "archiveType": "ENDBOOK",
+            "enrollId": null
+          },
           "endbook_rogue_5_4_1": {
             "archiveType": "ENDBOOK",
             "enrollId": "rogue_5_enroll_1"
@@ -7870,6 +8268,10 @@
             "enrollId": "rogue_5_enroll_1"
           },
           "endbook_rogue_5_4_3": {
+            "archiveType": "ENDBOOK",
+            "enrollId": "rogue_5_enroll_1"
+          },
+          "endbook_rogue_5_4_4": {
             "archiveType": "ENDBOOK",
             "enrollId": "rogue_5_enroll_1"
           }
@@ -8016,7 +8418,7 @@
         "tipButtonName": "入园须知",
         "collectButtonName": "见字图册",
         "bpSystemName": "游园纪念",
-        "autoSetKV": "pic_rogue_5_KV2",
+        "autoSetKV": "pic_rogue_5_KV3",
         "bpPurchaseActiveEnroll": null,
         "defaultExpeditionSelectDesc": "干员{0}将会在本层结束后归来，并带回一些物资。",
         "gotCharMutationBuffToast": null,
@@ -8042,7 +8444,7 @@
         "copySeedModeInfo": "{0}#复制本信息到岁的界园志异预设参数，立即体验预设局",
         "copySucceededTextHint": "预设参数复制成功",
         "historicalRecordsCount": 6,
-        "historicalRecordsStartTime": 1736409600,
+        "historicalRecordsStartTime": 1769241600,
         "historicalRecordsMode": "NORMAL"
       },
       "init": [
@@ -8071,7 +8473,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8114,7 +8522,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8157,7 +8571,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8201,7 +8621,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8245,7 +8671,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8289,7 +8721,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8334,7 +8772,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8379,7 +8823,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8424,7 +8874,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8470,7 +8926,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8516,7 +8978,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8562,7 +9030,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8608,7 +9082,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8654,7 +9134,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8700,7 +9186,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -8746,7 +9238,13 @@
             "rogue_5_band_20",
             "rogue_5_band_21",
             "rogue_5_band_22",
-            "rogue_5_band_23"
+            "rogue_5_band_23",
+            "rogue_5_band_24",
+            "rogue_5_band_25",
+            "rogue_5_band_26",
+            "rogue_5_band_27",
+            "rogue_5_band_28",
+            "rogue_5_band_29"
           ],
           "initialRecruitGroup": [
             "recruit_group_1",
@@ -22786,6 +23284,11 @@
                   "key": "damage_resistance",
                   "value": 0.9,
                   "valueStr": null
+                },
+                {
+                  "key": "selector.enemy_exclude",
+                  "value": 0.0,
+                  "valueStr": "enemy_2131_dyfire|enemy_2130_dyswrd"
                 }
               ]
             }
@@ -26716,6 +27219,81 @@
             }
           ]
         },
+        "rogue_5_gild_bat_7": {
+          "id": "rogue_5_gild_bat_7",
+          "buffs": [
+            {
+              "key": "copper_exchange",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "PUT_BACK"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_reroll_copper"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_gild_bat_8": {
+          "id": "rogue_5_gild_bat_8",
+          "buffs": [
+            {
+              "key": "copper_exchange",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "PUT_BACK"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_reroll_copper_high"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_gild_bat_9": {
+          "id": "rogue_5_gild_bat_9",
+          "buffs": [
+            {
+              "key": "copper_exchange",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "PUT_BACK"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_reroll_copper_low"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_gild_bat_10": {
+          "id": "rogue_5_gild_bat_10",
+          "buffs": [
+            {
+              "key": "copper_pop_out_prob",
+              "blackboard": [
+                {
+                  "key": "prob",
+                  "value": 0.3,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
         "rogue_5_copper_buff_B_02_a": {
           "id": "rogue_5_copper_buff_B_02_a",
           "buffs": [
@@ -29455,6 +30033,26 @@
                 {
                   "key": "trig_type",
                   "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "ro5_rest_update_lv"
+                },
+                {
+                  "key": "value",
+                  "value": 0.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "set_choice_dynamic_param",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
                   "valueStr": "PUT_BACK"
                 },
                 {
@@ -31901,6 +32499,1581 @@
                   "key": "count",
                   "value": 1.0,
                   "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_01_a": {
+          "id": "rogue_5_copper_buff_E_01_a",
+          "buffs": [
+            {
+              "key": "immediate_cost",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_gold"
+                },
+                {
+                  "key": "count",
+                  "value": 30.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "count_extra",
+                  "value": 15.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "extra_cond_lucky_level_drawn",
+                  "value": 0.0,
+                  "valueStr": "LOW"
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_gold"
+                },
+                {
+                  "key": "count",
+                  "value": 15.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "per_lucky_level_drawn",
+                  "value": 0.0,
+                  "valueStr": "LOW"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_02_a": {
+          "id": "rogue_5_copper_buff_E_02_a",
+          "buffs": [
+            {
+              "key": "copper_exchange_cond",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_reroll_copper_low"
+                },
+                {
+                  "key": "is_drawn",
+                  "value": 0.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_exchange",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "PUT_BACK"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_copper_B_01_a"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_03_a": {
+          "id": "rogue_5_copper_buff_E_03_a",
+          "buffs": [
+            {
+              "key": "layer_char_attribute_mul",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "atk",
+                  "value": 0.1,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "init",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "delta",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "min",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 15.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_layer",
+                  "value": 0.0,
+                  "valueStr": "COPPER_OWN"
+                },
+                {
+                  "key": "lucky_level",
+                  "value": 0.0,
+                  "valueStr": "MID"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_04_a": {
+          "id": "rogue_5_copper_buff_E_04_a",
+          "buffs": [
+            {
+              "key": "copper_exchange_cond",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "PUT_BACK"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_reroll_copper_high"
+                },
+                {
+                  "key": "is_drawn",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_05_a": {
+          "id": "rogue_5_copper_buff_E_05_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_last_character_get_buff"
+                },
+                {
+                  "key": "atk",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "max_hp",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "attack_speed",
+                  "value": 50.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "sp",
+                  "value": 10.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_06_a": {
+          "id": "rogue_5_copper_buff_E_06_a",
+          "buffs": [
+            {
+              "key": "immediate_cost",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "GAIN"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_hp"
+                },
+                {
+                  "key": "count",
+                  "value": 10.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_hpmax"
+                },
+                {
+                  "key": "count",
+                  "value": 3.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_07_a": {
+          "id": "rogue_5_copper_buff_E_07_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "enemy_atk_down"
+                },
+                {
+                  "key": "atk",
+                  "value": 1.2,
+                  "valueStr": null
+                },
+                {
+                  "key": "selector.enemy_level_type",
+                  "value": 0.0,
+                  "valueStr": "NORMAL|ELITE|BOSS"
+                }
+              ]
+            },
+            {
+              "key": "copper_layer_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_relic_rdm"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "GAIN"
+                },
+                {
+                  "key": "init",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "delta",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "min",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 5.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_layer",
+                  "value": 0.0,
+                  "valueStr": "NODE_FINISH"
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BAT"
+                },
+                {
+                  "key": "node_sky",
+                  "value": 0.0,
+                  "valueStr": "BAT"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_08_a": {
+          "id": "rogue_5_copper_buff_E_08_a",
+          "buffs": [
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_population"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_layer_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_relic_rdm"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "GAIN"
+                },
+                {
+                  "key": "init",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "delta",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "min",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 5.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_layer",
+                  "value": 0.0,
+                  "valueStr": "NODE_FINISH"
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "NOBAT"
+                },
+                {
+                  "key": "node_sky",
+                  "value": 0.0,
+                  "valueStr": "NOBAT"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_09_a": {
+          "id": "rogue_5_copper_buff_E_09_a",
+          "buffs": [
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_gold"
+                },
+                {
+                  "key": "count",
+                  "value": 8.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "convert_a_to_b",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id_a",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_gold"
+                },
+                {
+                  "key": "per_a",
+                  "value": 12.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "id_b",
+                  "value": 0.0,
+                  "valueStr": "pool_battle_1"
+                },
+                {
+                  "key": "per_b",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "limit_cost",
+                  "value": 60.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_10_a": {
+          "id": "rogue_5_copper_buff_E_10_a",
+          "buffs": [
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "init",
+                  "value": 3.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "delta",
+                  "value": -1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "min",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 3.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_layer",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                }
+              ]
+            },
+            {
+              "key": "copper_layer_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_relic_rdm"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_11_a": {
+          "id": "rogue_5_copper_buff_E_11_a",
+          "buffs": [
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "init",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "delta",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "min",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 5.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_layer",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                }
+              ]
+            },
+            {
+              "key": "copper_layer_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_relic_rdm"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_12_a": {
+          "id": "rogue_5_copper_buff_E_12_a",
+          "buffs": [
+            {
+              "key": "layer_char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "attack_speed",
+                  "value": -10.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "attack_speed",
+                  "value": 80.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            },
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "init",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "delta",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "min",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 8.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_layer",
+                  "value": 0.0,
+                  "valueStr": "COPPER_CHANGE"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_13_a": {
+          "id": "rogue_5_copper_buff_E_13_a",
+          "buffs": [
+            {
+              "key": "char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "attack_speed",
+                  "value": 10.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            },
+            {
+              "key": "layer_char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "attack_speed",
+                  "value": 10.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "init",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "delta",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "min",
+                  "value": -1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 8.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_layer",
+                  "value": 0.0,
+                  "valueStr": "COPPER_CHANGE"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_14_a": {
+          "id": "rogue_5_copper_buff_E_14_a",
+          "buffs": [
+            {
+              "key": "level_life_point_add",
+              "blackboard": [
+                {
+                  "key": "value",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_hp"
+                },
+                {
+                  "key": "count",
+                  "value": 2.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_15_a": {
+          "id": "rogue_5_copper_buff_E_15_a",
+          "buffs": [
+            {
+              "key": "char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                },
+                {
+                  "key": "cost",
+                  "value": -5.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_16_a": {
+          "id": "rogue_5_copper_buff_E_16_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "magic_resistance",
+                  "value": -2.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max_stack_cnt",
+                  "value": 50.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_enemy_minus_magic_resistance[take_damage]"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_17_a": {
+          "id": "rogue_5_copper_buff_E_17_a",
+          "buffs": [
+            {
+              "key": "char_attribute_mul",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                },
+                {
+                  "key": "atk",
+                  "value": -0.35,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "attack_speed",
+                  "value": 60.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_18_a": {
+          "id": "rogue_5_copper_buff_E_18_a",
+          "buffs": [
+            {
+              "key": "gift_on_sacrifice",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_sacrifice_rdm"
+                },
+                {
+                  "key": "count",
+                  "value": 2.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_19_a": {
+          "id": "rogue_5_copper_buff_E_19_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "direction",
+                  "value": 3.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                },
+                {
+                  "key": "attack_speed",
+                  "value": 40.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_deploy_direction_buff"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_20_a": {
+          "id": "rogue_5_copper_buff_E_20_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "direction",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                },
+                {
+                  "key": "attack_speed",
+                  "value": 40.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_deploy_direction_buff"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_21_a": {
+          "id": "rogue_5_copper_buff_E_21_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "direction",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                },
+                {
+                  "key": "attack_speed",
+                  "value": 40.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_deploy_direction_buff"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_22_a": {
+          "id": "rogue_5_copper_buff_E_22_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "direction",
+                  "value": 2.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                },
+                {
+                  "key": "attack_speed",
+                  "value": 40.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_deploy_direction_buff"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_23_a": {
+          "id": "rogue_5_copper_buff_E_23_a",
+          "buffs": [
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "GAIN"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_gold"
+                },
+                {
+                  "key": "count",
+                  "value": 2.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_24_a": {
+          "id": "rogue_5_copper_buff_E_24_a",
+          "buffs": [
+            {
+              "key": "convert_a_to_b",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id_a",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_hp"
+                },
+                {
+                  "key": "per_a",
+                  "value": 2.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "id_b",
+                  "value": 0.0,
+                  "valueStr": "pool_relic_rdm"
+                },
+                {
+                  "key": "per_b",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_exchange",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "PUT_BACK"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_copper_B_01_a"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_25_a": {
+          "id": "rogue_5_copper_buff_E_25_a",
+          "buffs": [
+            {
+              "key": "immediate_cost",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_hp"
+                },
+                {
+                  "key": "count",
+                  "value": 2.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "layer_char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "atk",
+                  "value": 100.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "copper_unlock_layer",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "init",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max",
+                  "value": 9.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "atk",
+                  "value": 100.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_26_a": {
+          "id": "rogue_5_copper_buff_E_26_a",
+          "buffs": [
+            {
+              "key": "char_attribute_mul",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                },
+                {
+                  "key": "max_hp",
+                  "value": -0.45,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "damage_block[stack]"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "damage_block[stack]"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "damage_block[stack]"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "damage_block[stack]"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "damage_block[stack]"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "damage_block[stack]"
+                },
+                {
+                  "key": "selector.profession",
+                  "value": 0.0,
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_27_a": {
+          "id": "rogue_5_copper_buff_E_27_a",
+          "buffs": [
+            {
+              "key": "player_level_up",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "level",
+                  "value": 1.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "unlock_system",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "GAIN"
+                },
+                {
+                  "key": "type",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NO_EXP"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_28_a": {
+          "id": "rogue_5_copper_buff_E_28_a",
+          "buffs": [
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_population"
+                },
+                {
+                  "key": "count",
+                  "value": 4.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_hp"
+                },
+                {
+                  "key": "count",
+                  "value": 4.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "COST"
+                },
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_divinationkit"
+                },
+                {
+                  "key": "count",
+                  "value": 4.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_29_a": {
+          "id": "rogue_5_copper_buff_E_29_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "enemy_lighter"
+                },
+                {
+                  "key": "mass_level",
+                  "value": -1.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "force",
+                  "value": 2.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_skill_finish_push_enemy"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_5_copper_buff_E_30_a": {
+          "id": "rogue_5_copper_buff_E_30_a",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "enemy_lighter"
+                },
+                {
+                  "key": "mass_level",
+                  "value": -1.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "trig_type",
+                  "value": 0.0,
+                  "valueStr": "TAKE_OUT"
+                },
+                {
+                  "key": "force",
+                  "value": 2.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_5_skill_start_drag_enemy"
                 }
               ]
             }
@@ -35146,6 +37319,26 @@
                   "key": "zone",
                   "value": 0.0,
                   "valueStr": "zone_7"
+                }
+              ]
+            },
+            {
+              "key": "zone_into_reward",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "pool_sacrifice_sr"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "zone",
+                  "value": 0.0,
+                  "valueStr": "zone_8"
                 }
               ]
             },
@@ -43873,6 +46066,26 @@
             "taskId": null
           },
           "forceShowWhenOnlyLeave": true
+        },
+        "choice_ro5_market_43": {
+          "id": "choice_ro5_market_43",
+          "title": "临摹岁形",
+          "description": "以物易物",
+          "lockedCoverDesc": null,
+          "type": "NEXT",
+          "leftDecoType": "NONE",
+          "nextSceneId": "scene_ro5_market_26",
+          "icon": "unknown",
+          "displayData": {
+            "type": "NORMAL",
+            "costHintType": "NONE",
+            "effectHintType": "NONE",
+            "funcIconId": "unknown",
+            "itemId": null,
+            "difficultyUpgradeRelicGroupId": null,
+            "taskId": null
+          },
+          "forceShowWhenOnlyLeave": false
         },
         "choice_ro5_startbuff_1": {
           "id": "choice_ro5_startbuff_1",
@@ -61226,7 +63439,7 @@
         "scene_ro5_market_enter": {
           "id": "scene_ro5_market_enter",
           "title": "点睛",
-          "description": "你摹得祂的身形，摹得祂的精神，但在岁兽代理人眼里，终究是画菲林类佩洛，不得要领。或许，你可以请他们帮你修饰一下。",
+          "description": "纸笔齐备，乌墨点砚，你或许可以将一些东西固定在现实中。",
           "background": "pic_rogue_5_28",
           "titleIcon": null,
           "subTypeId": 0,
@@ -61389,6 +63602,15 @@
           "id": "scene_ro5_market_18",
           "title": "点睛",
           "description": "既然你付出了岁月......突然有棋子从天而降，敲醒了你的思维。你并没有看见那位岁兽代理人现身，但落下的棋子却合而为一，成为一件稀世珍宝。或许你永远都不会知道望的棋里埋了什么后手，正如人们揣测不了岁的想法。",
+          "background": "pic_rogue_5_28",
+          "titleIcon": null,
+          "subTypeId": 0,
+          "useHiddenMusic": false
+        },
+        "scene_ro5_market_26": {
+          "id": "scene_ro5_market_26",
+          "title": "点睛",
+          "description": "你摹得祂的身形，摹得祂的精神，但在岁兽代理人眼里，终究是画菲林类佩洛，不得要领。或许，你可以请他们帮你修饰一下。",
           "background": "pic_rogue_5_28",
           "titleIcon": null,
           "subTypeId": 0,
